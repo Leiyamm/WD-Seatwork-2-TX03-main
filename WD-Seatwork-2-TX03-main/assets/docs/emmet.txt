@@ -1,0 +1,8 @@
+// Header
+header>div.logo+nav>ul>li*4>a
+
+// Footer
+footer>p.copyright
+
+// Section
+section>div.section-content>img+div.section-text
